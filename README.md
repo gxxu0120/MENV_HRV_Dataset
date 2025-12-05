@@ -12,15 +12,12 @@ Details and documentation will be provided upon official release.
 
 - **Applications**: physiological monitoring, cross-domain generalization
 
-# Availability
+# Data Availability
 
-Currently, the dataset is **under embargo** due to the double-blind review process of our accompanying paper.
- The dataset will be made **fully available in this repository once the paper is published**.
+To ensure strict ethical compliance and privacy protection, we are currently in the process of gradually securing release authorizations from participants and anonymizing the data. The dataset will be made publicly available in this repository once this process is complete.
 
-# Release Timeline
+Contact If you have an urgent need for the data for research purposes, please contact us via email at gxxu@mail.ustc.edu.cn to discuss potential early access.
 
-- **Expected release**: After paper acceptance/publication
-- **Updates**: Please watch or star this repository for the latest updates
 
 # License
 
